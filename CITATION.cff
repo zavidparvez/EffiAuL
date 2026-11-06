@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying manuscript when using this implementation."
+title: "EffiAuL: Influence-Guided Approximate Unlearning for Privacy-Preserving Medical Image Analysis"
+type: software
+authors:
+  - family-names: Parvez
+    given-names: Mohammad Zavid
+  - family-names: Islam
+    given-names: Rafiqul
+  - family-names: Zheng
+    given-names: Lihong
+  - family-names: Islam
+    given-names: Md Zahidul
